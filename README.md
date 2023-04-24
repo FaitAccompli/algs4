@@ -1,2 +1,2 @@
 # algs4
-This repository contains my solutions for Algorithms Part 1 course offered by Princeton University
+This repository contains my solutions for Algorithms course offered by Princeton University
